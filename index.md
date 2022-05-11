@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome to my personal Github page
 
-You can use the [editor on GitHub](https://github.com/CristianPercivati/CristianPercivati/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a fullstack developer in progress.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianpercivati)](https://github.com/cristianpercivati/cristianpercivati)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpercivati&layout=compact)](https://github.com/cristianpercivati/cristianpercivati)
 
-### Markdown
+### Languages and Frameworks I know / study:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div style="display: grid">
+<img src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript&logoColor=black&style=for-the-badge">
+<img src="https://img.shields.io/badge/-HTML5-orange?logo=HTML5&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-bootstrap-blueviolet?logo=bootstrap&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-bulma-mediumaquamarine?logo=bulma&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-vue.js-mediumseagreen?logo=vue.js&logoColor=black&style=for-the-badge">
+<img src="https://img.shields.io/badge/-mongodb-whitesmoke?logo=mongodb&logoColor=green&style=for-the-badge">
+<img src="https://img.shields.io/badge/-node.js-whitesmoke?logo=node.js&logoColor=green&style=for-the-badge">
+<img src="https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=for-the-badge">
+<img src="https://img.shields.io/badge/-npm-red?logo=npm&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-php-lightsteelblue?logo=php&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-flask-white?logo=flask&logoColor=black&style=for-the-badge">
+  </div>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CristianPercivati/CristianPercivati/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div style="">
+<img src="https://simpleicons.org/icons/instagram.svg" style="width: 32px; height: 32px;">&nbsp&nbsp
+<img src="https://simpleicons.org/icons/facebook.svg" style="width: 32px; height: 32px;">&nbsp&nbsp
+<img src="https://simpleicons.org/icons/whatsapp.svg" style="width: 32px; height: 32px;">&nbsp&nbsp
+<img src="https://simpleicons.org/icons/gmail.svg" style="width: 32px; height: 32px;">
+  </div>
