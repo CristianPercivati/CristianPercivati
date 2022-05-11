@@ -1,4 +1,4 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="64" height="64" /> Hi there 
 
 <!--
 **CristianPercivati/CristianPercivati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Welcome to my personal Github page
 
-Languages and frameworks I know / actually studying:
+🌱 I'm a fullstack developer in progress.
+
+[![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianpercivati)](https://github.com/cristianpercivati/cristianpercivati)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpercivati&layout=compact)](https://github.com/cristianpercivati/cristianpercivati)
+
+### Languages and Frameworks I know / study:
 
 <div style="display: grid">
 <img src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript&logoColor=black&style=for-the-badge">
@@ -33,4 +39,14 @@ Languages and frameworks I know / actually studying:
 <img src="https://img.shields.io/badge/-php-lightsteelblue?logo=php&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-flask-white?logo=flask&logoColor=black&style=for-the-badge">
+  </div>
+
+
+### Contact
+
+<div style="">
+<img src="https://simpleicons.org/icons/instagram.svg" style="width: 32px; height: 32px;">&nbsp&nbsp
+<img src="https://simpleicons.org/icons/facebook.svg" style="width: 32px; height: 32px;">&nbsp&nbsp
+<img src="https://simpleicons.org/icons/whatsapp.svg" style="width: 32px; height: 32px;">&nbsp&nbsp
+<img src="https://simpleicons.org/icons/gmail.svg" style="width: 32px; height: 32px;">
   </div>
