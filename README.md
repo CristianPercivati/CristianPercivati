@@ -35,10 +35,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-node.js-whitesmoke?logo=node.js&logoColor=green&style=for-the-badge">
 <img src="https://img.shields.io/badge/-express.js-whitesmoke?logo=express&logoColor=green&style=for-the-badge">
 <img src="https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=for-the-badge">
-<img src="https://img.shields.io/badge/-npm-red?logo=npm&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-php-lightsteelblue?logo=php&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-flask-white?logo=flask&logoColor=black&style=for-the-badge">
   </div>
 
