@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Welcome to my personal Github page
 
-🌱 I'm a fullstack developer in progress.
+🌱 I'm a fullstack developer and data scientist in progress.
 
 [![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianpercivati)](https://github.com/cristianpercivati/cristianpercivati)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpercivati&layout=compact)](https://github.com/cristianpercivati/cristianpercivati)
