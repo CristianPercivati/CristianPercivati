@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  ## Welcome to my personal Github page
+  # Welcome to my personal Github page
 
-🌱 I'm a fullstack developer and data scientist in progress.
+ ## I'm a fullstack developer and data scientist in progress. 🌱
 
 [![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianpercivati&hide_rank=true&theme=cobalt)](https://github.com/cristianpercivati/cristianpercivati)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpercivati&layout=compact&theme=cobalt)](https://github.com/cristianpercivati/cristianpercivati)
 
 ### Languages and frameworks I'm currently learning:
 
-<div style="display: grid">
+<div>
 <img src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript&logoColor=black&style=for-the-badge">
 <img src="https://img.shields.io/badge/-HTML5-orange?logo=HTML5&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge">
