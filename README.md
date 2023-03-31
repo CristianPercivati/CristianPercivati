@@ -1,4 +1,6 @@
-### <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="64" height="64" /> Hi there 
+<div align="center">
+
+  ### <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="64" height="64" /> Hi there 
 
 <!--
 **CristianPercivati/CristianPercivati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Welcome to my personal Github page
+
+  ## Welcome to my personal Github page
 
 🌱 I'm a fullstack developer and data scientist in progress.
 
-[![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianpercivati)](https://github.com/cristianpercivati/cristianpercivati)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpercivati&layout=compact)](https://github.com/cristianpercivati/cristianpercivati)
+[![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianpercivati&hide_rank=true&theme=cobalt)](https://github.com/cristianpercivati/cristianpercivati)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpercivati&layout=compact&theme=cobalt)](https://github.com/cristianpercivati/cristianpercivati)
 
 ### Languages and frameworks I'm currently learning:
 
@@ -48,4 +51,5 @@ Here are some ideas to get you started:
 <img src="https://simpleicons.org/icons/facebook.svg" style="width: 32px; height: 32px;">&nbsp&nbsp
 <img src="https://simpleicons.org/icons/whatsapp.svg" style="width: 32px; height: 32px;">&nbsp&nbsp
 <img src="https://simpleicons.org/icons/gmail.svg" style="width: 32px; height: 32px;">
+  </div>
   </div>
