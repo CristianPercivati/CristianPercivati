@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  ## I'm a fullstack developer and data scientist in progress. 🌱
 
 [![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianpercivati&hide_rank=true&theme=cobalt)](https://github.com/cristianpercivati/cristianpercivati)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpercivati&layout=compact&theme=cobalt)](https://github.com/cristianpercivati/cristianpercivati)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpercivati&layout=compact&theme=cobalt&size_weight=0&count_weight=1)](https://github.com/cristianpercivati/cristianpercivati)
 
 ### Languages and frameworks I'm currently learning:
 
