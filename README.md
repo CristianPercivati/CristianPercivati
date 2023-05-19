@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-bulma-mediumaquamarine?logo=bulma&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-next-js?logo=nextdotjs&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-typescript-js?logo=typescript&color=skyblue&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-mongodb-whitesmoke?logo=mongodb&logoColor=green&style=for-the-badge">
 <img src="https://img.shields.io/badge/-node.js-whitesmoke?logo=node.js&logoColor=green&style=for-the-badge">
 <img src="https://img.shields.io/badge/-express.js-whitesmoke?logo=express&logoColor=green&style=for-the-badge">
